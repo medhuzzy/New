@@ -63,10 +63,17 @@ header{
   .we{
       position: relative;
       left: 4%;
-      font-size: 38px;
+      font-size: 35px;
   }
   .copy{
       text-align: center;
   }
-  
-
+  li{
+      margin: 5px;
+  }
+  hr{
+      border-color: red;
+  }
+form{
+    margin: 10px;
+}
